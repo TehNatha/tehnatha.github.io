@@ -8,6 +8,6 @@ categories: ["I Love Blogging", "Trees are cool too"]
 
 # A list of things cooler than trees
 
-1 Bacon
-2 Vidja Ghames
-3 Ordered Lists
+ 1 Bacon
+ 2 Vidja Ghames
+ 3 Ordered Lists
